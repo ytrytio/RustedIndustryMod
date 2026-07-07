@@ -1,0 +1,8 @@
+displayName: "Rusted Industry"
+name: "rind"
+author: "GLOR"
+main: "rind.RustedIndustry"
+description: "Rust-like survival mechanics for custom server"
+version: 1.0
+minGameVersion: 158.1
+java: true
